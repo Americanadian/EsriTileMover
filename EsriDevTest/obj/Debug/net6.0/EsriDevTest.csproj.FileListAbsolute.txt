@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\bin\Debug\net6.0\EsriDevTest.exe
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\bin\Debug\net6.0\EsriDevTest.deps.json
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\bin\Debug\net6.0\EsriDevTest.runtimeconfig.json
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\bin\Debug\net6.0\EsriDevTest.dll
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\bin\Debug\net6.0\EsriDevTest.pdb
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\EsriDevTest.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\EsriDevTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\EsriDevTest.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\EsriDevTest.AssemblyInfo.cs
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\EsriDevTest.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\EsriDevTest.dll
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\refint\EsriDevTest.dll
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\EsriDevTest.pdb
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\EsriDevTest.genruntimeconfig.cache
+C:\Users\chris\source\repos\EsriDevTest\EsriDevTest\obj\Debug\net6.0\ref\EsriDevTest.dll
